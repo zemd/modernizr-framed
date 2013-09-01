@@ -1,0 +1,12 @@
+{
+    "name": "modernizr-framed",
+    "version": "1.0.0",
+    "main": ".modernizr-framed.js",
+    "ignore": [
+        ".jshintrc",
+        "**/*.txt"
+    ],
+    "dependencies": {
+        "modernizr": "~> 3.0.0pre"
+    }
+}
