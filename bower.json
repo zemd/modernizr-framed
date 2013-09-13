@@ -7,6 +7,6 @@
         "**/*.txt"
     ],
     "dependencies": {
-        "modernizr": "~> 3.0.0pre"
+        "modernizr": ">=2.6.2"
     }
 }
