@@ -1,0 +1,24 @@
+{
+  "name": "modernizr-framed",
+  "version": "1.0.0",
+  "description": "Modernizr test for frame detection",
+  "main": "modernizr-framed.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zemd/modernizr-framed.git"
+  },
+  "keywords": [
+    "modernizr",
+    "frame",
+    "detection"
+  ],
+  "author": "Dmitry Zelenetskiy <dmitry.zelenetskiy@gmail.com>",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/zemd/modernizr-framed/issues"
+  },
+  "homepage": "https://github.com/zemd/modernizr-framed#readme"
+}

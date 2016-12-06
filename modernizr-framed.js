@@ -17,13 +17,13 @@
  * @fileoverview Test whether window inside iframe, and if there is iframe - move contents to top window
  */
 (function (global) {
-    'use strict';
-    var Modernizr = global.Modernizr;
-    Modernizr.addTest('framed', function () {
-        return global.self !== global.top;
-    });
-    if (Modernizr.framed && global.NO_FRAMED === true) {
-        global.top.location = global.self.location;
-    }
+  'use strict';
+  var Modernizr = global.Modernizr;
+  Modernizr.addTest('framed', function () {
+    return global.self !== global.top;
+  });
+  if (Modernizr.framed && global.NO_FRAMED === true) {
+    global.top.location = global.self.location;
+  }
 }(this));
 
