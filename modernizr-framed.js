@@ -25,5 +25,5 @@
   if (Modernizr.framed && global.NO_FRAMED === true) {
     global.top.location = global.self.location;
   }
-}(this));
+}(window));
 
