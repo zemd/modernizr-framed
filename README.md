@@ -29,7 +29,7 @@ window.NO_FRAMED = true;
 </script>
 
 <script src="path/to/modernizr.js"></script>
-<script src="https://unpkg.com/modernizr-browser@1.0.0/modernizr-framed.js"></script>
+<script src="https://unpkg.com/modernizr-framed@1.0.1/modernizr-framed.js"></script>
 ```
 
 
